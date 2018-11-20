@@ -1,0 +1,11 @@
+{
+  "name": "input",
+  "version": "1.0.0",
+  "description": "input component",
+  "main": "dist/index.js",
+  "module": "src/Input.js",
+  "author": "upply",
+  "dependencies": {
+
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "password-input",
+  "version": "0.0.1",
+  "description": "password input component",
+  "main": "dist/index.js",
+  "module": "src/PasswordInput.js",
+  "author": "upply",
+  "dependencies": {
+    "input": "1.0.0"
+  }
+}
